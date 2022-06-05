@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>老而弥坚工作室</title>
-        <link>http://example.org/</link>
+        <link>https://oldmanzhang.github.io/blogs/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://oldmanzhang.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My First Post</title>
-    <link>http://example.org/posts/my-first-post/</link>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-first-post/</link>
     <pubDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/my-first-post/</guid>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-first-post/</guid>
     <description><![CDATA[1231]]></description>
 </item>
 </channel>
