@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>同福东自我天地</title>
-        <link>https://oldmanzhang.github.io/blogs/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate>
-            <atom:link href="https://oldmanzhang.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>test - Tags - 同福东自我天地</title>
+        <link>https://oldmanzhang.github.io/blogs/tags/test/</link>
+        <description>test - Tags - 同福东自我天地</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/tags/test/" rel="self" type="application/rss+xml" /><item>
     <title>第三份</title>
     <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
     <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>

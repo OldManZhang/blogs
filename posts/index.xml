@@ -3,7 +3,15 @@
         <title>All Posts - 同福东自我天地</title>
         <link>https://oldmanzhang.github.io/blogs/posts/</link>
         <description>All Posts | 同福东自我天地</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:05:00 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>第三份</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
+    <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-third-post/</guid>
+    <description><![CDATA[第三份 ]]></description>
+</item>
+<item>
     <title>计划</title>
     <link>https://oldmanzhang.github.io/blogs/posts/my-second-post/</link>
     <pubDate>Fri, 15 Jul 2022 00:05:00 &#43;0800</pubDate>

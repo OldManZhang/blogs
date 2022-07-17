@@ -1,7 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 同福东自我天地</title>
+        <title>Categories - Categories - 同福东自我天地</title>
         <link>https://oldmanzhang.github.io/blogs/categories/</link>
-        <description>Categories - Category - 同福东自我天地</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://oldmanzhang.github.io/blogs/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Categories - 同福东自我天地</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>note</title>
+    <link>https://oldmanzhang.github.io/blogs/categories/note/</link>
+    <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://oldmanzhang.github.io/blogs/categories/note/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
