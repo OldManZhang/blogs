@@ -1,23 +1,29 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>init - series - 同福东自我天地</title>
-        <link>https://oldmanzhang.github.io/blogs/series/init/</link>
-        <description>init - series - 同福东自我天地</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/init/" rel="self" type="application/rss+xml" /><item>
-    <title>第三份</title>
-    <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
-    <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://oldmanzhang.github.io/blogs/posts/my-third-post/</guid>
-    <description><![CDATA[第三份 ]]></description>
-</item>
-<item>
-    <title>计划</title>
-    <link>https://oldmanzhang.github.io/blogs/posts/my-second-post/</link>
-    <pubDate>Fri, 15 Jul 2022 00:05:00 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://oldmanzhang.github.io/blogs/posts/my-second-post/</guid>
-    <description><![CDATA[我的计划 ]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>init on 同福东自我天地</title>
+    <link>https://oldmanzhang.github.io/blogs/series/init/</link>
+    <description>Recent content in init on 同福东自我天地</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 07:47:48 +0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/init/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第三份</title>
+      <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
+      <pubDate>Sun, 17 Jul 2022 07:47:48 +0800</pubDate>
+      
+      <guid>https://oldmanzhang.github.io/blogs/posts/my-third-post/</guid>
+      <description>第三份 </description>
+    </item>
+    
+    <item>
+      <title>计划</title>
+      <link>https://oldmanzhang.github.io/blogs/posts/my-second-post/</link>
+      <pubDate>Fri, 15 Jul 2022 00:05:00 +0800</pubDate>
+      
+      <guid>https://oldmanzhang.github.io/blogs/posts/my-second-post/</guid>
+      <description>我的计划 </description>
+    </item>
+    
+  </channel>
 </rss>
