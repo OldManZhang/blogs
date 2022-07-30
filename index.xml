@@ -3,9 +3,17 @@
         <title>同福东自我天地</title>
         <link>https://oldmanzhang.github.io/blogs/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 15:36:45 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 16:01:57 &#43;0800</lastBuildDate>
             <atom:link href="https://oldmanzhang.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>My Fifth Post</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-fifth-post/</link>
+    <pubDate>Sat, 30 Jul 2022 16:01:57 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-fifth-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>My Forth Post</title>
     <link>https://oldmanzhang.github.io/blogs/posts/my-forth-post/</link>
     <pubDate>Sat, 30 Jul 2022 15:36:45 &#43;0800</pubDate>
