@@ -1,29 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on 同福东自我天地</title>
-    <link>https://oldmanzhang.github.io/blogs/series/</link>
-    <description>Recent content in Series on 同福东自我天地</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 07:47:48 +0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>init</title>
-      <link>https://oldmanzhang.github.io/blogs/series/init/</link>
-      <pubDate>Sun, 17 Jul 2022 07:47:48 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/series/init/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>note</title>
-      <link>https://oldmanzhang.github.io/blogs/series/note/</link>
-      <pubDate>Sun, 05 Jun 2022 15:00:18 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/series/note/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - series - 同福东自我天地</title>
+        <link>https://oldmanzhang.github.io/blogs/series/</link>
+        <description>Series - series - 同福东自我天地</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/" rel="self" type="application/rss+xml" /><item>
+    <title>init</title>
+    <link>https://oldmanzhang.github.io/blogs/series/init/</link>
+    <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/series/init/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>note</title>
+    <link>https://oldmanzhang.github.io/blogs/series/note/</link>
+    <pubDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/series/note/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

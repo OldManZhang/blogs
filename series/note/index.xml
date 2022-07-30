@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>note on 同福东自我天地</title>
-    <link>https://oldmanzhang.github.io/blogs/series/note/</link>
-    <description>Recent content in note on 同福东自我天地</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 15:00:18 +0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/note/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://oldmanzhang.github.io/blogs/posts/my-first-post/</link>
-      <pubDate>Sun, 05 Jun 2022 15:00:18 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/posts/my-first-post/</guid>
-      <description>JAVA Linux Nginx Mysql Frontend </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>note - series - 同福东自我天地</title>
+        <link>https://oldmanzhang.github.io/blogs/series/note/</link>
+        <description>note - series - 同福东自我天地</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/series/note/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-first-post/</link>
+    <pubDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-first-post/</guid>
+    <description><![CDATA[JAVA Linux Nginx Mysql Frontend ]]></description>
+</item>
+</channel>
 </rss>

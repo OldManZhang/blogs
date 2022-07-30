@@ -1,38 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on 同福东自我天地</title>
-    <link>https://oldmanzhang.github.io/blogs/posts/</link>
-    <description>Recent content in Posts on 同福东自我天地</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 07:47:48 +0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>第三份</title>
-      <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
-      <pubDate>Sun, 17 Jul 2022 07:47:48 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/posts/my-third-post/</guid>
-      <description>第三份 </description>
-    </item>
-    
-    <item>
-      <title>计划</title>
-      <link>https://oldmanzhang.github.io/blogs/posts/my-second-post/</link>
-      <pubDate>Fri, 15 Jul 2022 00:05:00 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/posts/my-second-post/</guid>
-      <description>我的计划 </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://oldmanzhang.github.io/blogs/posts/my-first-post/</link>
-      <pubDate>Sun, 05 Jun 2022 15:00:18 +0800</pubDate>
-      
-      <guid>https://oldmanzhang.github.io/blogs/posts/my-first-post/</guid>
-      <description>JAVA Linux Nginx Mysql Frontend </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 同福东自我天地</title>
+        <link>https://oldmanzhang.github.io/blogs/posts/</link>
+        <description>All Posts | 同福东自我天地</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2022 15:36:45 &#43;0800</lastBuildDate><atom:link href="https://oldmanzhang.github.io/blogs/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Forth Post</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-forth-post/</link>
+    <pubDate>Sat, 30 Jul 2022 15:36:45 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-forth-post/</guid>
+    <description><![CDATA[第四篇的文章 第二级的标题1 第二级的标题2 ]]></description>
+</item>
+<item>
+    <title>第三份</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-third-post/</link>
+    <pubDate>Sun, 17 Jul 2022 07:47:48 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-third-post/</guid>
+    <description><![CDATA[第三份 ]]></description>
+</item>
+<item>
+    <title>计划</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-second-post/</link>
+    <pubDate>Fri, 15 Jul 2022 00:05:00 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-second-post/</guid>
+    <description><![CDATA[我的计划 ]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>https://oldmanzhang.github.io/blogs/posts/my-first-post/</link>
+    <pubDate>Sun, 05 Jun 2022 15:00:18 &#43;0800</pubDate>
+    <author>同福东</author>
+    <guid>https://oldmanzhang.github.io/blogs/posts/my-first-post/</guid>
+    <description><![CDATA[JAVA Linux Nginx Mysql Frontend ]]></description>
+</item>
+</channel>
 </rss>
